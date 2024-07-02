@@ -1,0 +1,18 @@
+@storybook/cli v8.1.11
+
+info => Cleaning outputDir: C:\Users\yao5\AppData\Local\Temp\chromatic--28512-jwWmTNcZZjP8
+info => Loading presets
+info => Building manager..
+WARN unable to find package.json for @chromatic-com/shared-e2e
+info => Manager built (1.06 s)
+info => Building preview..
+info Addon-docs: using MDX3
+info => Using implicit CSS loaders
+info => Using default Webpack5 setup
+info => Copying static files: test-results\chromatic-archives\archive at C:\Users\yao5\AppData\Local\Temp\chromatic--28512-jwWmTNcZZjP8
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   856.c718bf59.iframe.bundle.js (1 MiB)
+info => Preview built (11 s)
+info => Output directory: C:\Users\yao5\AppData\Local\Temp\chromatic--28512-jwWmTNcZZjP8
